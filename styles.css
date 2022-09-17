@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.play {
+    flex-basis: 50%;
+}
+.pause {
+    flex-basis: 50%;
+}
+
+.voxbut {
+    background-color: #FF94B2;
+    font-size: 18px;    
+}
+
+.gtrbut {
+    background-color: #AB81DE;
+    font-size: 18px;   
+}
+.bassbut {
+    background-color: #9BC5F5;
+    font-size: 18px;   
+}
+.drumsbut {
+    background-color: #81DEB9;
+    font-size: 18px;   
+}
+.auxbut {
+    background-color: #D5FAB6;
+    font-size: 18px;   
+}
