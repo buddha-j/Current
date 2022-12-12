@@ -8,7 +8,6 @@ Short term to do:
 - Visuals/proper layout
 - Ensure tracks stay synchronized
 - Timeline Seek tool
-- NFT compatibility/test mint
 
 Long term to do:
 - Visualizer
